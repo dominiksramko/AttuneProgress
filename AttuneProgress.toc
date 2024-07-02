@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Attune Progress
+## Notes: Makes it easier to track your attune progress.
+## Author: dominiksramko
+## Version: 1.0
+
+AttuneProgress.lua
+slots\bags.lua
+slots\auction.lua
+slots\char.lua
